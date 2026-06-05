@@ -3,6 +3,15 @@ Physics-informed data assimilation-based spatiotemporal synthetic data generatio
 
 ![Overview figure](image.png)
 
+## Overview
+This repository provides code and generated results for physics-informed spatiotemporal synthetic data generation using 3D-Var data assimilation and deep learning. The project focuses on reconstructing and generating ocean-related variables by combining numerical reanalysis data, in-situ observations, and model-based physical constraints.
+
+The implementation combines two research directions:
+
+* 3D-Var data assimilation for integrating observation data with background fields
+* Physics-informed deep learning for spatiotemporal ocean data reconstruction
+* A U-Net-based spatiotemporal model is used to generate synthetic ocean fields from wind and wave-related input variables
+
 ===
 
 ## Project directory structure
