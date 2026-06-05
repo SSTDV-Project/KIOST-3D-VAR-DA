@@ -49,6 +49,7 @@ Any Public project is encouraged to include:
 * ECMWF ERA5 (https://cds.climate.copernicus.eu/datasets)
 * KMA Weather Data Service 'Open MET Data Portal' (https://data.kma.go.kr/data/sea/selectBuoyRltmList.do?pgmNo=52)
 * Ministry of Oceans and Fisheries Data Service (http://wink.go.kr/main.do)
+* Please contact tkkim@kiost.ac.kr for full synthetic data
 
 ## Requirements
 
